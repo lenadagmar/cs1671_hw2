@@ -1,0 +1,214 @@
+,id,timestamp,text,speaker,reply_to,conversation_id,meta.receiver,meta.absolute_message_index,meta.relative_message_index,meta.year,meta.game_score,meta.game_score_delta,intent
+1251,Game2-austria-germany-470,2683,Wonder if England did,austria-Game2,Game2-austria-germany-469,Game2-austria-germany,germany-Game2,2683,470,1905,8,-1,0
+236,Game5-germany-france-3,117,"What do we do from here, I want to make sure we don't let everyone else in on our scheme yet but I also don't want to upset you",germany-Game5,Game5-germany-france-2,Game5-germany-france,france-Game5,117,3,1901,3,0,1
+1151,Game1-germany-russia-11,810,"Hahaa, no. I already regret the damage I've done to you, and have no desire to exacerbate it.",russia-Game1,Game1-germany-russia-10,Game1-germany-russia,germany-Game1,810,11,1903,7,3,0
+259,Game2-england-germany-311,2216,Here’s what I’m thinking,england-Game2,Game2-england-germany-310,Game2-england-germany,germany-Game2,2216,311,1905,6,-3,0
+1561,Game2-austria-italy-172,590,I don't like the western dynamics at all,austria-Game2,Game2-austria-italy-171,Game2-austria-italy,italy-Game2,590,172,1901,5,1,0
+1053,Game4-england-germany-14,122,I ask because he said he already talked to you about it.,england-Game4,Game4-england-germany-13,Game4-england-germany,germany-Game4,122,14,1901,3,0,1
+1147,Game1-austria-russia-21,661,"Welcome back to the land of open channels. Anyway, you know you and Italy don't have to fake fight on my account, right?",russia-Game1,Game1-austria-russia-20,Game1-austria-russia,austria-Game1,661,21,1903,6,1,0
+452,Game2-austria-russia-51,1556,Germany says he is.  I would like to bounce him if possible and I told him I would too.  I need you to keep that center,austria-Game2,Game2-austria-russia-50,Game2-austria-russia,russia-Game2,1556,51,1903,6,4,0
+761,Game1-england-italy-467,2549,"Oh, that could be. Maybe it has to run to 1910?",italy-Game1,Game1-england-italy-466,Game1-england-italy,england-Game1,2549,467,1908,13,7,1
+1109,Game7-germany-russia-44,505,Norway is intriguing.  I wish I was in STP right now.  😦,russia-Game7,Game7-germany-russia-43,Game7-germany-russia,germany-Game7,505,44,1902,5,1,1
+562,Game2-austria-germany-302,1946,That’s true. I’m trying to keep it that way (no enemies).,germany-Game2,Game2-austria-germany-301,Game2-austria-germany,austria-Game2,1946,302,1904,7,0,0
+497,Game2-austria-italy-481,2221,Agreed re: Germany.  Wish we’d had more time to discuss that build but it happens.,italy-Game2,Game2-austria-italy-480,Game2-austria-italy,austria-Game2,2221,481,1905,6,-2,0
+1248,Game9-england-germany-7,171,Just feeling around,germany-Game9,Game9-england-germany-6,Game9-england-germany,england-Game9,171,7,1901,3,0,0
+604,Game2-turkey-germany-9,207,"Yeah, I think you'll be fine with Austria initially",turkey-Game2,Game2-turkey-germany-8,Game2-turkey-germany,germany-Game2,207,9,1901,3,0,0
+972,Game9-turkey-france-15,85,I guess it's too much to hope for that they just sit on their hands for a few years lol,turkey-Game9,Game9-turkey-france-14,Game9-turkey-france,france-Game9,85,15,1901,3,0,1
+342,Game4-england-france-203,1202,"There's no getting around it: I need builds to fuel a campaign against Italy and Turkey in the south. I'm glad you are looking for an opportunity to make this as amicable as possible- I definitely don't intend on going after the island (hence, sending Brest to MAO rather than the English Channel). On top of not being necessary, your coasts are extremely well defended.",france-Game4,Game4-england-france-202,Game4-england-france,england-Game4,1202,203,1905,9,3,1
+1323,Game1-italy-france-58,994,"So...I really like your message, and I’m trying to think how it could all work.",italy-Game1,Game1-italy-france-57,Game1-italy-france,france-Game1,994,58,1904,6,0,0
+162,Game6-turkey-france-42,445,*although you took like 6 of my territories before*,france-Game6,Game6-turkey-france-41,Game6-turkey-france,turkey-Game6,445,42,1907,8,-7,1
+970,Game6-england-france-56,459,"Hey, I think we can agree that we need to take whatever measures possilble to stop Turkey from getting one more supply center. We just need to last one more year, and I think with some communication it might be possible. Do whatever it takes to stop turkey",france-Game6,Game6-england-france-55,Game6-england-france,england-Game6,459,56,1909,7,1,1
+672,Game4-england-france-116,683,"If Edi will end up in the North Sea, where is North Sea headed? To Helgoland Blight?",france-Game4,Game4-england-france-115,Game4-england-france,england-Game4,683,116,1902,5,1,0
+1324,Game11-germany-france-11,241,"I don't trust the French not to try to play me for a patsy and you're far more communicative anyways, might as well tell you stuff that'll give you the upper hand.",germany-Game11,Game11-germany-france-10,Game11-germany-france,france-Game11,241,11,1901,3,0,1
+186,Game1-italy-russia-58,1662,Cool. Any chance you’d like to team up with me and England?,italy-Game1,Game1-italy-russia-57,Game1-italy-russia,russia-Game1,1662,58,1906,8,2,1
+789,Game1-germany-france-34,572,I want to help you protect your supply centers if that is alright with you.,france-Game1,Game1-germany-france-33,Game1-germany-france,germany-Game1,572,34,1902,6,2,1
+1256,Game1-england-italy-54,628,Germany seems on board. Maybe i’m setting myself up to get stabbed. Hope i’m backing the right horse on this one. I’ll shoot for the channel in the spring and then we get germany into belgium. Are you planning to move west?,england-Game1,Game1-england-italy-53,Game1-england-italy,italy-Game1,628,54,1903,5,0,0
+397,Game1-turkey-italy-18,492,"We have a terrific counter, if you’d like to work with me. 
+
+I can tap Greece and Aegean, which should allow you to save Bulgaria (Const S Bulgaria holding). At the same time, Black Sea Support Armenia to Sevastopol WILL WORK! I’m planning to move over to Trieste, so the end result of all this would be Turkey regaining Sev and remaining at 5 while I take Trieste and get to 5. From there, I think we should be able to work together to finish off Austria.",italy-Game1,Game1-turkey-italy-17,Game1-turkey-italy,turkey-Game1,492,18,1902,4,-1,1
+996,Game5-england-austria-1,14,"Agreed, but I would also be happy to",england-Game5,Game5-england-austria-0,Game5-england-austria,austria-Game5,14,1,1901,3,0,0
+1352,Game2-turkey-france-9,751,He contacted me,france-Game2,Game2-turkey-france-8,Game2-turkey-france,turkey-Game2,751,9,1902,5,0,1
+1010,Game2-germany-russia-16,531,Turkey asked me why your army in Ber halted. What do you want me to say?,germany-Game2,Game2-germany-russia-15,Game2-germany-russia,russia-Game2,531,16,1901,5,2,0
+97,Game3-italy-germany-49,979,What did you do with yours?,italy-Game3,Game3-italy-germany-48,Game3-italy-germany,germany-Game3,979,49,1904,5,0,0
+869,Game10-austria-russia-6,151,"Italian 1901 moves are a wildcard.  I think they want to take it cautious, which means I’d have a tiny bit of breathing room, but if you were Italy and wanted to dive into Austria, wouldn’t you tell them you wanted to move cautiously, too? ;p",austria-Game10,Game10-austria-russia-5,Game10-austria-russia,russia-Game10,151,6,1901,3,-1,0
+812,Game4-england-france-91,602,This changes a lot in terms of plans because one thing you can do now is move North Sea to Helgoland and Norwegian Sea to North Sea,france-Game4,Game4-england-france-90,Game4-england-france,england-Game4,602,91,1902,6,2,0
+122,Game2-italy-germany-225,1650,My thought it I don’t risk losing burg and who knows I just might take it,germany-Game2,Game2-italy-germany-224,Game2-italy-germany,italy-Game2,1650,225,1903,7,2,0
+61,Game1-england-italy-109,1210,"Well that’s fun. Um, where to begin? 
+
+I think I’m a good online player. I’ve been playing online for about two years. I have a site ranking on one website in the Top 100, and I have a site ranking on another website in the top 250. So, maybe if you combine those rankings and squint, I’d be in the top 200 or so?",italy-Game1,Game1-england-italy-108,Game1-england-italy,england-Game1,1210,109,1905,7,2,1
+872,Game2-turkey-italy-47,554,Whyever would you do that.,italy-Game2,Game2-turkey-italy-46,Game2-turkey-italy,turkey-Game2,554,47,1901,4,-1,0
+123,Game2-england-austria-21,1753,You taking Mos here?,austria-Game2,Game2-england-austria-20,Game2-england-austria,england-Game2,1753,21,1903,6,1,1
+1444,Game12-turkey-russia-318,821,I feel like south of Switzerland is kind your turf and north of it is mine,russia-Game12,Game12-turkey-russia-317,Game12-turkey-russia,turkey-Game12,821,318,1906,11,1,0
+819,Game1-austria-russia-12,488,"Yeah, Turkey has not been handling this fantastically.",austria-Game1,Game1-austria-russia-11,Game1-austria-russia,russia-Game1,488,12,1902,5,0,0
+1036,Game4-germany-russia-17,227,had a sorta anti-russian opening and just seeing who's on who's side,russia-Game4,Game4-germany-russia-16,Game4-germany-russia,germany-Game4,227,17,1901,4,1,1
+380,Game8-germany-france-46,660,...I'm sorry but with Turkey squaring up to steal italy out from under me (and probably roping Austria in to help) I need two builds this turn. I'll hand over Belgium next year.,france-Game8,Game8-germany-france-45,Game8-germany-france,germany-Game8,660,46,1905,10,3,0
+1072,Game3-england-italy-29,60,In other news what's your take on russia so far?,england-Game3,Game3-england-italy-28,Game3-england-italy,italy-Game3,60,29,1901,3,0,0
+1460,Game2-austria-italy-345,1499,Go for it,austria-Game2,Game2-austria-italy-344,Game2-austria-italy,italy-Game2,1499,345,1902,6,1,1
+975,Game2-turkey-italy-67,575,"Dude, it feels like you’re making a lot of demands but not offering me much.",italy-Game2,Game2-turkey-italy-66,Game2-turkey-italy,turkey-Game2,575,67,1901,4,-1,0
+621,Game2-austria-germany-475,3114,I can support you into Rum here if you want.  I'm holding my northern line so don't bother taking it out.  However it may benefit you to move against T here,austria-Game2,Game2-austria-germany-474,Game2-austria-germany,germany-Game2,3114,475,1908,6,-4,1
+379,Game3-italy-france-14,375,"We do, and we should be good. I imagine there will be fallout to deal with from the attempt at Munich",france-Game3,Game3-italy-france-13,Game3-italy-france,italy-Game3,375,14,1901,5,1,1
+561,Game4-england-russia-122,1539,Oh well. Probably wouldn’t have mattered anyways,russia-Game4,Game4-england-russia-121,Game4-england-russia,england-Game4,1539,122,1907,7,4,1
+1270,Game12-turkey-france-77,748,"In any case, I'm not just gonna sit here and die a slow death.",france-Game12,Game12-turkey-france-76,Game12-turkey-france,turkey-Game12,748,77,1905,6,-4,0
+1163,Game11-italy-france-27,1012,I am willing to concede it to you if you cooperate elsewhere,italy-Game11,Game11-italy-france-26,Game11-italy-france,france-Game11,1012,27,1904,3,-5,1
+1318,Game1-austria-italy-139,2293,"Oh man. I’m getting a lot of hate mail out west. Not fun. I think Germany has a pretty low opinion of me, and it sounds like she and Russia are developing a bit of a romance. 
+
+I am totally cool with you taking back Trieste this turn, and I am thankful that you loaned it to me in the first place. But I’d prefer if you wait to take Greece until you can actually use the build. It would make things quite a bit tougher for me if I have to take a unit off the board especially if we don’t get an extra unit in the east to compensate.",italy-Game1,Game1-austria-italy-138,Game1-austria-italy,austria-Game1,2293,139,1907,10,4,1
+1096,Game1-england-italy-57,700,"I can move to attack France in the Spring if you like. For now, I think that mobilizing Germany to attack France is your best bet (and shouldn’t be too hard).",italy-Game1,Game1-england-italy-56,Game1-england-italy,england-Game1,700,57,1903,5,0,1
+1261,Game2-england-italy-111,3240,There is no next turn,england-Game2,Game2-england-italy-110,Game2-england-italy,italy-Game2,3240,111,1909,8,3,0
+614,Game5-turkey-england-54,416,"Alright, I've got Gal standing by",turkey-Game5,Game5-turkey-england-53,Game5-turkey-england,england-Game5,416,54,1909,11,-1,1
+1496,Game2-italy-germany-37,324,Was your bounce with France on purpose?  Or accidental?,italy-Game2,Game2-italy-germany-36,Game2-italy-germany,germany-Game2,324,37,1901,3,0,0
+1407,Game8-austria-italy-53,395,We’re all the moves through the Balkans with turkey coordinated?,italy-Game8,Game8-austria-italy-52,Game8-austria-italy,austria-Game8,395,53,1903,4,0,0
+957,Game4-turkey-russia-25,326,"obviously I can totally trust you, right?",russia-Game4,Game4-turkey-russia-24,Game4-turkey-russia,turkey-Game4,326,25,1901,5,0,1
+593,Game3-turkey-austria-45,940,yeah,austria-Game3,Game3-turkey-austria-44,Game3-turkey-austria,turkey-Game3,940,45,1904,5,0,0
+489,Game2-turkey-germany-127,1686,"Well, at least there's a way to force a stalemate from this position but I still lose 1 dude (and austria gains one)",turkey-Game2,Game2-turkey-germany-126,Game2-turkey-germany,germany-Game2,1686,127,1903,5,-2,0
+835,Game1-england-italy-1,95,Well good luck to you too! No idea yet who is a friend. Have you heard anything interesting?,italy-Game1,Game1-england-italy-0,Game1-england-italy,england-Game1,95,1,1901,3,0,1
+637,Game2-italy-france-16,800,Cool cool I’m tracking.  You’re probably going after Germany then?,italy-Game2,Game2-italy-france-15,Game2-italy-france,france-Game2,800,16,1902,4,-1,1
+229,Game9-turkey-austria-4,37,Agreed -- I'd rather deal with Russia from the get go as well. Have you heard anything from Italy tho? I'm kind of worried of committing north if they're an unknown quantity,turkey-Game9,Game9-turkey-austria-3,Game9-turkey-austria,austria-Game9,37,4,1901,3,0,0
+720,Game1-england-russia-79,2597,I concur,russia-Game1,Game1-england-russia-78,Game1-england-russia,england-Game1,2597,79,1909,5,-1,0
+502,Game3-austria-italy-123,1404,Also looks like Germany is allying with England. So I'm going to have to move my units back to address that threat,austria-Game3,Game3-austria-italy-122,Game3-austria-italy,italy-Game3,1404,123,1905,5,-1,0
+732,Game9-austria-italy-40,883,"Also France and I agreed to that move because we were in negotiations, now negotiating him out.",italy-Game9,Game9-austria-italy-39,Game9-austria-italy,austria-Game9,883,40,1902,4,-1,0
+422,Game12-turkey-russia-365,910,The juggernaut train just keeps-a-rollin! 🙂,turkey-Game12,Game12-turkey-russia-364,Game12-turkey-russia,russia-Game12,910,365,1907,12,1,0
+692,Game4-turkey-russia-69,950,"So I think the ideal would be something like:
+Ion - Gre
+Aeg s Ion - Gre
+Rum - Ser
+Bul s Rum - ser
+Sev - Rum",russia-Game4,Game4-turkey-russia-68,Game4-turkey-russia,turkey-Game4,950,69,1903,5,-1,1
+1448,Game2-turkey-italy-7,124,Russia has been silent so far,turkey-Game2,Game2-turkey-italy-6,Game2-turkey-italy,italy-Game2,124,7,1901,3,0,0
+501,Game6-turkey-germany-22,326,"I'm not saying I necessarily want to move to Trieste.  But Italy is a problem for everyone right now, just in terms of resolution.  And the radio silence.",germany-Game6,Game6-turkey-germany-21,Game6-turkey-germany,turkey-Game6,326,22,1903,5,-1,0
+966,Game2-turkey-austria-26,339,"Alright, will you be able to provide support to attack sevastopol?",turkey-Game2,Game2-turkey-austria-25,Game2-turkey-austria,austria-Game2,339,26,1901,3,0,1
+383,Game4-turkey-russia-34,634,Ok yes let's do it. I think they are after me anyway,turkey-Game4,Game4-turkey-russia-33,Game4-turkey-russia,russia-Game4,634,34,1902,5,0,1
+110,Game1-italy-france-53,988,Any thoughts for me? How would you go about making a French-Italy alliance work?,france-Game1,Game1-italy-france-52,Game1-italy-france,italy-Game1,988,53,1904,6,0,0
+1276,Game9-italy-russia-254,1197,I’ll be arguing it too,italy-Game9,Game9-italy-russia-253,Game9-italy-russia,russia-Game9,1197,254,1902,5,-2,0
+79,Game1-italy-germany-293,2253,"From my perspective, you were on the ropes early. France and England were teaming up on you. You lost Denmark and France had Holland and Munich surrounded. You were in serious peril. 
+
+I seriously went to extreme effort to keep you in the game. I spent hours talking with England and encouraging him to turn around and go the other way. I completely ended my eastern campaign and spent two seasons just making the voyage over to France so that he didn’t have the bandwidth to continue his attack. I have vouched for you with Austria and Russia many times. I have supported Munich. And I have NEVER attacked you, even when people have asked me to do so and pledged to support me.",italy-Game1,Game1-italy-germany-292,Game1-italy-germany,germany-Game1,2253,293,1907,10,3,1
+1303,Game1-italy-france-38,735,"I believe I am getting a build this turn (crossing my fingers), and I plan to build A Ven to set up an invasion of Austria.",italy-Game1,Game1-italy-france-37,Game1-italy-france,france-Game1,735,38,1903,5,-1,1
+1312,Game1-england-italy-329,1913,"Here is what I have down right now:
+MAO S Brest
+WES S MAO
+LYO - TYR S
+Spa - Gas
+Pie - Mar
+Ven - Tyr
+Nap - ION",italy-Game1,Game1-england-italy-328,Game1-england-italy,england-Game1,1913,329,1907,10,5,1
+1201,Game4-turkey-russia-46,855,"This would garuntee you two of Austria supply centers, unless Austria does something very weird.  I could support myself into Gal, and attempt to move for Vie.",russia-Game4,Game4-turkey-russia-45,Game4-turkey-russia,turkey-Game4,855,46,1903,5,-1,1
+1129,Game1-italy-france-116,1505,"If you are interested in retreating to Irish, I would take support to the Channel in Fall if you’ll offer it. Could be interesting.",italy-Game1,Game1-italy-france-115,Game1-italy-france,france-Game1,1505,116,1906,8,4,1
+606,Game7-england-russia-15,344,Sure! What do you have in mind?,russia-Game7,Game7-england-russia-14,Game7-england-russia,england-Game7,344,15,1901,4,1,1
+847,Game4-france-russia-280,1317,"If anything, you have a build in pocket, and are picking up Vienna and Budapest.  If I was going to stab you I would have chosen a different turn and told Austria about you moving to Vienna",france-Game4,Game4-france-russia-279,Game4-france-russia,russia-Game4,1317,280,1906,12,3,1
+124,Game2-turkey-germany-11,209,I inquired about Italy a little bit but not so much about other plans,turkey-Game2,Game2-turkey-germany-10,Game2-turkey-germany,germany-Game2,209,11,1901,3,0,1
+1524,Game1-england-germany-366,1902,"Italy doesn't tell me anything unless they have something to gain from me. I asked if they were going to try and take the channel again and they denied it, but that could be fake news?",germany-Game1,Game1-england-germany-365,Game1-england-germany,england-Game1,1902,366,1907,7,2,0
+269,Game9-turkey-russia-49,870,"BTW I'm feeding Austria a heaping helping of bullshit right now to try and get them to back up off of me so that I can be in better position to attack, just in case they try to snitch and show you the bullshit I'm telling them. I'm still playing them as if I'm their friend who wants to regain their trust and attack you.",russia-Game9,Game9-turkey-russia-48,Game9-turkey-russia,turkey-Game9,870,49,1902,6,2,0
+784,Game2-england-italy-49,1175,"We can’t what, split up like that?",england-Game2,Game2-england-italy-48,Game2-england-italy,italy-Game2,1175,49,1902,5,1,0
+997,Game11-turkey-austria-139,737,"If we were to follow this sort of path where do you see your expansion going? You can get Sev, Tun, and Nap, then what",austria-Game11,Game11-turkey-austria-138,Game11-turkey-austria,turkey-Game11,737,139,1903,5,0,0
+378,Game8-turkey-russia-71,607,Preventing some attempt by Austria to gift Greece to France.,turkey-Game8,Game8-turkey-russia-70,Game8-turkey-russia,russia-Game8,607,71,1904,6,1,0
+1557,Game4-austria-france-15,356,I am very worried about a steamroller/Russia Turkey alliance,france-Game4,Game4-austria-france-14,Game4-austria-france,austria-Game4,356,15,1902,6,2,1
+1371,Game3-england-germany-403,1843,I'll support hold Moscow and moscow will support you to ukr. Also I'll ask the if we can get a  group chat for us,england-Game3,Game3-england-germany-402,Game3-england-germany,germany-Game3,1843,403,1909,8,0,0
+1176,Game11-austria-france-17,874,"Just wanted you to know, my move into Tyr is not at all meant aggresivly at you. I am only going to use it to strong-arm into venice",france-Game11,Game11-austria-france-16,Game11-austria-france,austria-Game11,874,17,1903,6,1,1
+1530,Game12-turkey-france-116,925,"Since you have no reason to trust me, watch what I do.",turkey-Game12,Game12-turkey-france-115,Game12-turkey-france,france-Game12,925,116,1907,12,4,0
+770,Game2-austria-germany-466,2628,It’s cool. You must not know me that well IRL,germany-Game2,Game2-austria-germany-465,Game2-austria-germany,austria-Game2,2628,466,1905,9,1,0
+699,Game10-england-austria-5,33,Nothing from Italy other than hello,england-Game10,Game10-england-austria-4,Game10-england-austria,austria-Game10,33,5,1901,3,0,0
+439,Game9-turkey-russia-10,34,"Alrighty, sounds good to me",turkey-Game9,Game9-turkey-russia-9,Game9-turkey-russia,russia-Game9,34,10,1901,3,-1,0
+64,Game4-england-germany-55,290,Alright that sounds good. Do you want me to move into Brest?,england-Game4,Game4-england-germany-54,Game4-england-germany,germany-Game4,290,55,1901,4,-1,1
+1456,Game4-germany-france-76,841,"I tell you this with little risk since if you tell England, he'll simply change the plan to one without this key vulnerability",france-Game4,Game4-germany-france-75,Game4-germany-france,germany-Game4,841,76,1903,5,0,1
+508,Game11-turkey-france-2,273,"Pretty good. I would watch out for Australian/Russian alliance, heard from Austria they were doing that.",france-Game11,Game11-turkey-france-1,Game11-turkey-france,turkey-Game11,273,2,1901,3,0,0
+559,Game3-england-russia-107,916,Hahaha I like that idea!!,england-Game3,Game3-england-russia-106,Game3-england-russia,russia-Game3,916,107,1903,7,2,0
+431,Game8-england-germany-5,190,"ahhhhhh, I had originally built in berlin and then after your message i changed it to kiel but didn't update the order properly. I have NO plans on going anywhere but the baltic with it.",germany-Game8,Game8-england-germany-4,Game8-england-germany,england-Game8,190,5,1902,5,1,1
+1365,Game9-turkey-austria-14,683,we could coordinate an attack on Rum while I deploy my fleets towards Italy perhaps?,turkey-Game9,Game9-turkey-austria-13,Game9-turkey-austria,austria-Game9,683,14,1902,4,-1,1
+983,Game7-england-france-38,417,I see us supporting each other more in the fall,england-Game7,Game7-england-france-37,Game7-england-france,france-Game7,417,38,1902,4,-2,0
+801,Game1-italy-france-105,1341,Hmm. Any way we can do this without having me go down a unit? If you move to MAO I'm pretty sure you'll get in.,france-Game1,Game1-italy-france-104,Game1-italy-france,italy-Game1,1341,105,1905,5,-2,1
+1465,Game8-turkey-france-39,503,I...never realized before...that it was possible to mansplain over text,france-Game8,Game8-turkey-france-38,Game8-turkey-france,turkey-Game8,503,39,1903,8,2,1
+951,Game9-austria-russia-18,854,It literally did work! It would have worked like a charm if you hadn't messed it up! The Turks trust me implicitly! I could have landed in Constantinople and they'd have been taken entirely by surprise because they thought I was allied to them! I told you literally all of this,russia-Game9,Game9-austria-russia-17,Game9-austria-russia,austria-Game9,854,18,1902,6,1,0
+1404,Game3-turkey-russia-21,294,"Yeah, good call. So ordered.",russia-Game3,Game3-turkey-russia-20,Game3-turkey-russia,turkey-Game3,294,21,1901,4,1,1
+29,Game7-italy-russia-22,570,I heard there was a supply center rush in Germany and wanted my fair share.,italy-Game7,Game7-italy-russia-21,Game7-italy-russia,russia-Game7,570,22,1902,4,-1,1
+366,Game4-turkey-russia-144,1494,k,russia-Game4,Game4-turkey-russia-143,Game4-turkey-russia,turkey-Game4,1494,144,1907,7,0,0
+710,Game10-austria-russia-45,351,Ofc Im not looking to break our alliance anytime soon XD. A dual win is very possible for us...,russia-Game10,Game10-austria-russia-44,Game10-austria-russia,austria-Game10,351,45,1902,5,0,0
+582,Game3-italy-germany-16,256,Hmm I don't know yet. Seems like he's trying to go west?,germany-Game3,Game3-italy-germany-15,Game3-italy-germany,italy-Game3,256,16,1901,3,0,1
+609,Game2-austria-france-11,443,"Not much going on, England is strong and Germany is worried about Russia",france-Game2,Game2-austria-france-10,Game2-austria-france,austria-Game2,443,11,1901,3,0,1
+1162,Game4-turkey-italy-11,945,"I cant support you into Greece, but I can support you into TRI in the fall",turkey-Game4,Game4-turkey-italy-10,Game4-turkey-italy,italy-Game4,945,11,1903,6,2,1
+840,Game2-austria-germany-235,1553,"Ah, I was too.  What's the intent behind the Warsaw move?",austria-Game2,Game2-austria-germany-234,Game2-austria-germany,germany-Game2,1553,235,1903,6,-1,1
+1011,Game1-italy-germany-242,2018,"Re your move this turn, I don’t think you’re powerless. You should get a build I think and if not, you should be in position to smash England.",italy-Game1,Game1-italy-germany-241,Game1-italy-germany,germany-Game1,2018,242,1907,10,3,1
+581,Game1-italy-germany-236,1945,"I’d love to talk if you’re there. I’m getting the impression that England may actually be moving on you, and I think I have a good counter, but I also still think we should support the attack on Brest and take North Sea.",italy-Game1,Game1-italy-germany-235,Game1-italy-germany,germany-Game1,1945,236,1907,10,3,1
+1211,Game2-turkey-germany-20,763,He thought I was going to defend and decided not to anyway,germany-Game2,Game2-turkey-germany-19,Game2-turkey-germany,turkey-Game2,763,20,1902,5,0,1
+1074,Game10-italy-germany-5,76,"Am currently speaking to both but haven't really moved towards either as of yet.
+
+What are your plans vis a vis alliances and expansion?",italy-Game10,Game10-italy-germany-4,Game10-italy-germany,germany-Game10,76,5,1901,3,0,1
+893,Game2-austria-italy-294,1205,Trying to work France to my advantage but I feel good,italy-Game2,Game2-austria-italy-293,Game2-austria-italy,austria-Game2,1205,294,1902,4,-1,0
+1065,Game8-turkey-russia-19,202,Done,turkey-Game8,Game8-turkey-russia-18,Game8-turkey-russia,russia-Game8,202,19,1902,4,-2,1
+481,Game7-turkey-italy-10,658,I'll try,italy-Game7,Game7-turkey-italy-9,Game7-turkey-italy,turkey-Game7,658,10,1903,4,-1,1
+1112,Game2-turkey-germany-123,1682,"Yes, why is Italy so strongly joined at the hip with Austria? It seems unlikely that we will be able to pry him away unfortunately",germany-Game2,Game2-turkey-germany-122,Game2-turkey-germany,turkey-Game2,1682,123,1903,7,2,0
+484,Game4-italy-france-57,1123,"Hmm, I would say they are pretty tense, but still cordial.",france-Game4,Game4-italy-france-56,Game4-italy-france,italy-Game4,1123,57,1904,6,2,1
+885,Game10-germany-russia-7,281,"Hey sorry I didn’t see that, I wasn’t on all yesterday. I’d like to work with you in the north since I’m afraid England is good and will have France soon.",germany-Game10,Game10-germany-russia-6,Game10-germany-russia,russia-Game10,281,7,1901,5,0,1
+1090,Game4-england-france-205,1204,I *think* the way this can work out is having me take Holland and Russia take Kiel.,france-Game4,Game4-england-france-204,Game4-england-france,england-Game4,1204,205,1905,9,3,1
+1212,Game4-france-russia-335,1425,"So the *best way* to go for the 3 way draw right now would be for me to move North Sea to Yorkshire and move Skaggerak to North Sea while you convoyed an army from Norway into Clyde. This way, we can take both London and Edinburgh in the fall, and next year I would support you to Liverpool",france-Game4,Game4-france-russia-334,Game4-france-russia,russia-Game4,1425,335,1906,15,8,1
+1537,Game1-england-germany-78,535,"This isn’t a full stab. I’m sorry for the deception though. I hadn’t heard whether Italy was anti-French. Now I have. I’m taking Denmark this year with Russian support. I’m sorry for that too. Kiel can’t save it. I’d suggest you bounce kiel and munich in Ruh and then attack holland from belgium to cut support . This will hold the line (unless france decides to let you into belgium, which would be unlikely).",england-Game1,Game1-england-germany-77,Game1-england-germany,germany-Game1,535,78,1902,4,-1,0
+754,Game1-england-germany-45,377,"Any thoughts on my offer?
+I have another proposal if you’re interested",germany-Game1,Game1-england-germany-44,Game1-england-germany,england-Game1,377,45,1902,5,1,0
+2,Game10-england-germany-116,738,I think you should move F Swe - Bot as a bounce before you delete the unit.,england-Game10,Game10-england-germany-115,Game10-england-germany,germany-Game10,738,116,1905,7,0,0
+1574,Game4-italy-russia-23,878,I'm game to play but only if I'm the one getting supported into Greece,italy-Game4,Game4-italy-russia-22,Game4-italy-russia,russia-Game4,878,23,1903,4,-1,0
+348,Game9-france-russia-1,79,I'd be very interested in organizing a group effort against Britain right now. I likely won't move to Saint Petersburg the first turn in case the Germans try something but I'm definitely bouncing in the Black sea.,russia-Game9,Game9-france-russia-0,Game9-france-russia,france-Game9,79,1,1901,4,1,0
+598,Game4-france-russia-278,1315,"I know what this looks like, and I think you should make whichever moves make you more comfortable, but I needed to find a way to convince Austria to work with me against Turkey in the fall and split them up, so as a condition I put in these moves. That being said, it's a spring move, and so my plan is to reverse the spring by walking back out of Kiel and Berlin",france-Game4,Game4-france-russia-277,Game4-france-russia,russia-Game4,1315,278,1906,12,3,1
+483,Game9-england-france-12,290,"So if you're comfortable with it, I suggest we just go ahead. Even if Germany causes problems, the two of us should be able to handle them.",france-Game9,Game9-england-france-11,Game9-england-france,england-Game9,290,12,1901,3,0,0
+568,Game6-germany-france-10,90,"I thought you were going to bounce me... oh well. I know I'm in Bur rn and that is generally considered an  anti-german position, but I don't really want to fight you, since I have my hands full w/ England.  Do you want to try to take out England? I could support Ruh into belgium if you were willing to support me sometime in the future",france-Game6,Game6-germany-france-9,Game6-germany-france,germany-Game6,90,10,1901,3,0,1
+709,Game5-england-russia-33,290,"Sorry, maybe I'm a bit of a nube °>.<",england-Game5,Game5-england-russia-32,Game5-england-russia,russia-Game5,290,33,1903,7,0,1
+1149,Game2-england-italy-115,3244,It’s actually inconsequential who takes what as neither of us can top the board. The only thing that matters is the we kick France,england-Game2,Game2-england-italy-114,Game2-england-italy,italy-Game2,3244,115,1909,8,3,0
+1234,Game7-turkey-france-1,160,Hello monsieur President. Greater pleasure would be to work together.,turkey-Game7,Game7-turkey-france-0,Game7-turkey-france,france-Game7,160,1,1901,3,0,1
+127,Game9-italy-russia-312,1402,"Not sure yet, cleaning this up is gonna be a mess. Hopefully Germany can keep France small enough while we do it",italy-Game9,Game9-italy-russia-311,Game9-italy-russia,russia-Game9,1402,312,1903,5,-5,0
+1351,Game12-turkey-russia-382,943,"“Could you please slow down killing them so brutally so I can catch up?”  That’d be some pretty sad shit!  If I deserved to be doing better, I’d have outplayed France’s tactics or convinced them to somehow be somewhere else.",turkey-Game12,Game12-turkey-russia-381,Game12-turkey-russia,russia-Game12,943,382,1907,13,2,1
+347,Game4-turkey-russia-111,1455,I think we might be able to do,russia-Game4,Game4-turkey-russia-110,Game4-turkey-russia,turkey-Game4,1455,111,1907,7,0,1
+102,Game12-turkey-france-92,850,You are in the more precarious position (although the game is time limited so the danger isn’t quite so great).  So you make a specific proposal and I’ll tell you if that is asking too much or is fine as long as you keep your end of the bargain.,turkey-Game12,Game12-turkey-france-91,Game12-turkey-france,france-Game12,850,92,1907,12,4,1
+791,Game6-germany-russia-18,322,"You can't reasonably have had hope to keep Norway through the year under almost any circumstances.  Even, as it turns out, with an England NMR.
+
+You're fundamentally correct, and Italy is a wild card in this thing for sure.  And I would enjoy playing this one out with you as well.  But it might have to be smack talk.
+
+If you're concerned about a potential continental Caliphate, show me.  Support Tyr-Tri.  I'm not saying I'm going to make that move - I might - but I'll take it as a strong sign that you're serious about us working together, and about the Turkish threat.",germany-Game6,Game6-germany-russia-17,Game6-germany-russia,russia-Game6,322,18,1903,5,-2,0
+630,Game4-germany-france-14,226,To be honest I haven't thought about builds. I'll build completely contingent on how everyone around me is postured. If you're not in position and russias not in a position to attack me considering two fleets is a lot more viable,germany-Game4,Game4-germany-france-13,Game4-germany-france,france-Game4,226,14,1901,3,0,1
+1070,Game3-italy-france-61,1674,"Alright, will do my best!",italy-Game3,Game3-italy-france-60,Game3-italy-france,france-Game3,1674,61,1907,8,4,0
+1144,Game3-england-austria-0,50,Hello archduke. Just wanted to give a friendly wave and wish you luck in your endeavors  :),england-Game3,,Game3-england-austria,austria-Game3,50,0,1901,3,0,0
+944,Game2-england-germany-287,2142,"A Bel - Ruh
+A Bur H
+F Den - NTH
+A Par S Pic - Bre
+A Sil S War
+F Swe - Den
+A War - Ukr",germany-Game2,Game2-england-germany-286,Game2-england-germany,england-Game2,2142,287,1904,7,1,0
+638,Game1-austria-italy-63,691,Sorry — I’ve been slammed all day. Just looking at this again now.,italy-Game1,Game1-austria-italy-62,Game1-austria-italy,austria-Game1,691,63,1903,5,0,0
+726,Game8-turkey-austria-14,59,"ughhh. sorry to hear that, brother.",turkey-Game8,Game8-turkey-austria-13,Game8-turkey-austria,austria-Game8,59,14,1901,3,0,0
+1419,Game6-turkey-france-29,416,"So this turn don't actually stab Russia yet, just get in a convenient position to do so. Assuming Russia doesn't expect anything, we will be able to get 3 of russias supply centers. I hope you agree to this plan, and let me know in the next few hours, as I am not going to stab russia unless you are on board",france-Game6,Game6-turkey-france-28,Game6-turkey-france,turkey-Game6,416,29,1906,11,3,1
+919,Game9-france-russia-9,108,"Even in that nightmare scenario, you can defend all your centers with A Ukraine S Sev H (if Austria went to Rumania) or support Warsaw (if they went to Galicia with support)",france-Game9,Game9-france-russia-8,Game9-france-russia,russia-Game9,108,9,1901,3,-1,0
+711,Game11-germany-france-15,249,and... you really trust england?,france-Game11,Game11-germany-france-14,Game11-germany-france,germany-Game11,249,15,1901,3,0,0
+314,Game9-england-russia-48,1083,"Well that just means you'll have to trust me as much as I'm having to trust you with this move, eh?",russia-Game9,Game9-england-russia-47,Game9-england-russia,england-Game9,1083,48,1902,6,1,1
+829,Game2-england-france-10,2918,I can offer keeping you in the game so you make the draw.,england-Game2,Game2-england-france-9,Game2-england-france,france-Game2,2918,10,1906,7,6,1
+210,Game2-turkey-italy-75,585,I don’t want that though!  But I don’t see other options if you make that build.,italy-Game2,Game2-turkey-italy-74,Game2-turkey-italy,turkey-Game2,585,75,1901,4,-1,1
+536,Game4-france-russia-132,867,I sent England the orders u sent me btw,russia-Game4,Game4-france-russia-131,Game4-france-russia,france-Game4,867,132,1903,5,0,0
+700,Game1-italy-france-63,999,"You might find yourself in a bit of a janissary position, but you won’t have to fear that I’ll just stab you for all your centers because I would be far to early to make a solo run, and I’d just invite backlash from the rest of the board. I’m not a dimwit who strikes out on poorly considered solo runs too early.",italy-Game1,Game1-italy-france-62,Game1-italy-france,france-Game1,999,63,1904,6,0,0
+1308,Game12-england-france-75,497,Can you support A Bur-Ruh? Then I can support a hold in Hol.,france-Game12,Game12-england-france-74,Game12-england-france,england-Game12,497,75,1903,5,0,0
+1397,Game11-turkey-france-4,307,All I heard was that they and russia were going to try to take you out,france-Game11,Game11-turkey-france-3,Game11-turkey-france,turkey-Game11,307,4,1901,3,0,1
+1531,Game5-austria-russia-1,5,"The first clear point between us is dependent on how we want to arrange the balkans, and of course, the typical sore point between us in Galicia. I would be interested in hearing your thoughts on both of those.",austria-Game5,Game5-austria-russia-0,Game5-austria-russia,russia-Game5,5,1,1901,3,-1,0
+298,Game2-austria-germany-474,2692,"Got to finalize some plans myself, just checking in",austria-Game2,Game2-austria-germany-473,Game2-austria-germany,germany-Game2,2692,474,1905,8,-1,1
+1560,Game1-england-italy-292,1829,Right.,italy-Game1,Game1-england-italy-291,Game1-england-italy,england-Game1,1829,292,1907,10,5,0
+627,Game11-turkey-italy-32,368,"Currently, France's fleet Marseille is a big headache for me",italy-Game11,Game11-turkey-italy-31,Game11-turkey-italy,turkey-Game11,368,32,1902,4,0,0
+106,Game1-austria-russia-5,212,"Oh, fwiw, I'd just as well neither of us tried for Galicia this turn, if you don't mind.",russia-Game1,Game1-austria-russia-4,Game1-austria-russia,austria-Game1,212,5,1901,4,1,0
+302,Game2-turkey-austria-74,2825,At least you're semi reasonable about it.  Many aren't,austria-Game2,Game2-turkey-austria-73,Game2-turkey-austria,turkey-Game2,2825,74,1905,8,5,0
+191,Game1-austria-italy-39,584,"Yes, we xposted, but we are thinking the same way.",italy-Game1,Game1-austria-italy-38,Game1-austria-italy,austria-Game1,584,39,1903,5,0,1
+32,Game5-turkey-austria-9,294,I think Russia is going to have to retreat very soon,turkey-Game5,Game5-turkey-austria-8,Game5-turkey-austria,austria-Game5,294,9,1903,4,0,1
+1187,Game11-italy-france-3,68,"So... I guess your new? What do you think about this game? The above might still apply, but I don't know because Turkey might change your mind",france-Game11,Game11-italy-france-2,Game11-italy-france,italy-Game11,68,3,1901,3,0,1
+824,Game2-austria-germany-385,2451,For all I know you’ve already set up a massive plan to attack me,germany-Game2,Game2-austria-germany-384,Game2-austria-germany,austria-Game2,2451,385,1905,9,1,1
+780,Game2-england-germany-234,2000,Still wanna share orders?,england-Game2,Game2-england-germany-233,Game2-england-germany,germany-Game2,2000,234,1904,6,-1,0
+1481,Game12-turkey-russia-176,556,Hey Turkey! Thanks for the bounce in Vie!,russia-Game12,Game12-turkey-russia-175,Game12-turkey-russia,turkey-Game12,556,176,1904,8,-1,0
+1311,Game7-turkey-italy-4,559,Ok lets do that,turkey-Game7,Game7-turkey-italy-3,Game7-turkey-italy,italy-Game7,559,4,1902,4,0,1
+1470,Game5-england-france-45,282,"Ah, I planned on using Nth to follow up into Den after taking Swe",england-Game5,Game5-england-france-44,Game5-england-france,france-Game5,282,45,1903,7,1,0
+1394,Game11-england-germany-13,268,"On second thought, the fact that the French don't feel trustworthy means that they're probably lying when they say they'll move to Belgium. I dunno. Take it how you will.",germany-Game11,Game11-england-germany-12,Game11-england-germany,england-Game11,268,13,1901,3,0,1
+30,Game12-turkey-france-38,200,Yes that’s what I mean.,turkey-Game12,Game12-turkey-france-37,Game12-turkey-france,france-Game12,200,38,1901,3,0,0
+1214,Game1-italy-germany-295,2255,"And to hear that (1) You think I’ve been selfish and (2) You’ve been sabotaging me all along, that just doesn’t sit well with me.",italy-Game1,Game1-italy-germany-294,Game1-italy-germany,germany-Game1,2255,295,1907,10,3,1
+1313,Game2-england-italy-103,3171,we don't let germany win,england-Game2,Game2-england-italy-102,Game2-england-italy,italy-Game2,3171,103,1909,8,3,1
+285,Game2-austria-italy-252,829,Yeah.  Happy to discuss em in more detail iffff you’d like.  What’s your strategy?  What’re you doing with that fleet in Trieste?,italy-Game2,Game2-austria-italy-251,Game2-austria-italy,austria-Game2,829,252,1902,4,-1,0
+898,Game2-austria-italy-444,2022,"Great.  Hopefully there will be fireworks.  If they go to war, we win",austria-Game2,Game2-austria-italy-443,Game2-austria-italy,italy-Game2,2022,444,1904,7,2,0
+83,Game1-austria-italy-143,2451,"Yeah, I get that. It makes me sick because it’s likely that you’ll just get squeezed between me and Russia. Fighting me is not really a path toward viability for you, and that’s my fault. 
+
+I’m sorry this happened. I really am. I misjudged the situation and I fear I’ve ruined both our games. If you can stick around and insist on getting some of the fruits of smashing me and not letting Russia get them all, that would be justice.",italy-Game1,Game1-austria-italy-142,Game1-austria-italy,austria-Game1,2451,143,1907,13,10,1
+1517,Game4-turkey-france-21,508,Do you have any Intel on Germany or England?,france-Game4,Game4-turkey-france-20,Game4-turkey-france,turkey-Game4,508,21,1902,6,1,1
+239,Game12-germany-france-4,111,"I'm considering playing fairly aggressive against England and cutting them off at the pass in 1901, your support for that would be very helpful.",france-Game12,Game12-germany-france-3,Game12-germany-france,germany-Game12,111,4,1901,3,0,1
+1437,Game10-italy-france-18,708,I could,france-Game10,Game10-italy-france-17,Game10-italy-france,italy-Game10,708,18,1905,1,-3,1
+513,Game8-austria-italy-35,212,Yeah I haven’t heard back from Germany in a while,italy-Game8,Game8-austria-italy-34,Game8-austria-italy,austria-Game8,212,35,1902,4,0,0
+1049,Game11-turkey-austria-32,400,If you think I should then I will,austria-Game11,Game11-turkey-austria-31,Game11-turkey-austria,turkey-Game11,400,32,1902,4,0,1
